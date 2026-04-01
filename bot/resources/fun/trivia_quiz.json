@@ -377,7 +377,7 @@
     {
       "id": 217,
       "question": "What is the natural log of -1 (use i for imaginary number)?",
-      "answer": ["pi*i", "pii", "πi"]
+      "answer": ["pi*i", "pii", "πi", "i*pi", "ipi", "iπ", "-ipi", "-pii"]
     },
     {
       "id": 218,
